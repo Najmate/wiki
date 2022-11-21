@@ -1,0 +1,53 @@
+<section class="text-center">
+    <div id="carouselExampleSlidesOnly" class="carousel w-50 d-inline-block slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="https://hypando.com.br/wp-content/uploads/2022/08/Imagem-destacada-Jujutsu-Kaisen.jpg"
+                    class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://cabanadoleitor.com.br/wp-content/uploads/2021/07/Jujutsu-Kaisen-1.jpg"
+                    class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://images6.alphacoders.com/112/1120777.jpg" class="d-block w-100" alt="...">
+            </div>
+        </div>
+    </div>
+
+    ------------------------------------------
+
+    <div id="carouselExampleIndicators" class="carousel w-50 d-inline-block slide" data-bs-ride="true">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="https://hypando.com.br/wp-content/uploads/2022/08/Imagem-destacada-Jujutsu-Kaisen.jpg"
+                    class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://cabanadoleitor.com.br/wp-content/uploads/2021/07/Jujutsu-Kaisen-1.jpg"
+                    class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://static.anime21.blog.br/2019/11/CAPA-10-1200x675-cropped.jpg" class="d-block w-100"
+                    alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
